@@ -1,7 +1,7 @@
 import {AiFillHome} from 'react-icons/ai'
 
 const Header = () => {
-  return <header>
+  return <header className='absolute z-30 w-full'>
     <div>
 
     <AiFillHome/>
